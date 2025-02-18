@@ -12,6 +12,6 @@
 
 **MENTER NAME** Neela Santhosh Kumar
 
-**DESCRIPTION** Real time chat application
+**DESCRIPTION** Real time collaboration tool
 
 **OUTPUT** https://github.com/Shivammisal/REAL-TIME-COLLABORATION-TOOL/blob/main/WhatsApp%20Image%202025-02-18%20at%2013.07.16_fd76c985.jpg
